@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView 25jan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titles">
+        <item>Memo 1 </item>
+        <item>Memo 2 </item>
+        <item>Memo 3 </item>
+        <item>Memo 4 </item>
+        <item>Memo 5 </item>
+        <item>Memo 6 </item>
+        <item>Memo 7 </item>
+        <item>Memo 8 </item>
+        <item>Memo 9 </item>
+
+    </string-array>
+
+
+    <string-array name="descriptions">
+        <item>This is a description 1 </item>
+        <item>This is a description 2 </item>
+        <item>This is a description 3 </item>
+        <item>This is a description 4 </item>
+        <item>This is a description 5 </item>
+        <item>This is a description  6 </item>
+        <item>This is a description 7 </item>
+        <item>This is a description 8 </item>
+        <item>This is a description 9 </item>
+
+    </string-array>
+
+
+
+</resources>
